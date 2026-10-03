@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/collidor/schema-command/compare/v1.0.7...v1.1.0) (2026-10-03)
+
+
+### Features
+
+* **schema-command:** add createSchemaCommand factory function ([e54c633](https://github.com/collidor/schema-command/commit/e54c633fdee0fda9d505f6b28dc66ada912beb95))
+
 ## [1.0.7](https://github.com/collidor/schema-command/compare/v1.0.6...v1.0.7) (2026-10-01)
 
 
