@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/collidor/schema-command/compare/v1.1.0...v1.1.1) (2026-10-08)
+
+
+### Bug Fixes
+
+* bump command ([0a7064f](https://github.com/collidor/schema-command/commit/0a7064f048a14d4645935c8c36b3c89c347e527f))
+
 # [1.1.0](https://github.com/collidor/schema-command/compare/v1.0.7...v1.1.0) (2026-10-03)
 
 
