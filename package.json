@@ -31,18 +31,18 @@
     "author": "Alykam Burdzaki <alykam@gmail.com> (https://alykam.com)",
     "license": "MIT",
     "devDependencies": {
+        "@semantic-release/changelog": "^6.0.3",
+        "@semantic-release/exec": "^6.0.3",
+        "@semantic-release/git": "^10.0.1",
+        "@swc/core": "^1.13.5",
         "oxlint": "^1.78.0",
+        "semantic-release": "^24.2.3",
         "tsup": "8.5.0",
         "typescript": "5.9.2",
-        "zod": "^4",
-        "semantic-release": "^24.2.3",
-        "@semantic-release/changelog": "^6.0.3",
-        "@semantic-release/git": "^10.0.1",
-        "@semantic-release/exec": "^6.0.3",
-        "@swc/core": "^1.13.5"
+        "zod": "^4"
     },
     "dependencies": {
-        "@collidor/command": "^7.2.1"
+        "@collidor/command": "^7.3.1"
     },
     "peerDependencies": {
         "zod": "^4"
