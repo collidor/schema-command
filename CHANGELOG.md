@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/collidor/schema-command/compare/v1.1.1...v1.1.2) (2026-10-08)
+
+
+### Bug Fixes
+
+* memory leaks on async generators ([00b0de5](https://github.com/collidor/schema-command/commit/00b0de5c96c92b3b9a203cb4f3dc4b1317fafdd8))
+
 ## [1.1.1](https://github.com/collidor/schema-command/compare/v1.1.0...v1.1.1) (2026-10-08)
 
 
