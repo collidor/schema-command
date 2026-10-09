@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/collidor/schema-command/compare/v1.1.2...v1.1.3) (2026-10-09)
+
+
+### Bug Fixes
+
+* **deps:** update @collidor/command to ^7.3.4 ([de60566](https://github.com/collidor/schema-command/commit/de60566ced19bde5a064abc43be06be763284187))
+
 ## [1.1.2](https://github.com/collidor/schema-command/compare/v1.1.1...v1.1.2) (2026-10-08)
 
 
